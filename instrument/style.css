@@ -1,0 +1,32 @@
+p.mavi{
+    color:blue;
+  }
+
+  .m{
+    margin-left:40%
+  }
+  .font{
+    font-family: sans-serif;
+  }
+  .font-purple{
+    color: purple;
+  }
+  .font-orangered{
+    color:orange;
+  }
+  .font-red{
+    color:red;
+    font-size: xx-large;
+  }
+ .center{
+    text-align: center;
+ }
+ul{
+    margin-right:50px ;
+}
+.lip {
+    display: inline-block;
+    margin-left: 4px;
+    margin-right: 6px;
+}
+
