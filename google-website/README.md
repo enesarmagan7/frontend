@@ -11,8 +11,11 @@ Sonuç:
 Kullanılan Teknolojiler:
 
 HTML
+
 CSS
+
 Talimatlar:
 
 HTML ve CSS dosyalarını indirin.
+
 HTML dosyasını bir web tarayıcısında açın.
